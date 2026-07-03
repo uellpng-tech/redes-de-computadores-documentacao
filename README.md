@@ -1,4 +1,4 @@
-# Anotações Das Aulas de Redes de Computadores e Internet
+# Documentação Das Aulas de Redes de Computadores e Internet
 
 ## Conteúdos
 - [P2P e Client-Server](p2p-e-client-server.md)
