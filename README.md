@@ -5,3 +5,5 @@
 - [Roteador, Modem e configurações de Rede iniciais](configuracoes-internet-e-rede-local.md)
 - [Classes de IP, configurações de rede local e DHCP](classes-ip-e-rede-local.md)
 - [Principais protocolos de rede e portas de comunicação](principais-protocolos-e-portas-de-comunicacao.md)
+##
+- [Referências](referencias/README.md)
