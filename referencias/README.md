@@ -9,3 +9,6 @@ Esses repositório contém resumos desenvolvidos por mim para fins de estudo. Pa
 
 - [Hardware Redes Brasil](https://www.youtube.com/@HardwareRedesBrasil)
     - [Site](https://www.hrbrcursos.com/)
+
+- [Cisco Networking Academy](https://www.netacad.com/pt/)
+    - [Fundamentos de CyberSegurança](https://www.netacad.com/pt/courses/cybersecurity-essentials?courseLang=pt-BR)

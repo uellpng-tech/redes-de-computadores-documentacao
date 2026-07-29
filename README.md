@@ -6,5 +6,6 @@
 - [Classes de IP, configurações de rede local e DHCP](classes-ip-e-rede-local.md)
 - [Principais protocolos de rede e portas de comunicação](principais-protocolos-e-portas-de-comunicacao.md)
 - [Compartilhamento de rede no Windows](compartilhamento-de-rede-windows.md)
+- [Protocolos: NAT e PAT](protocolos-nat-e-pat.md)
 ##
 - [Referências](referencias/README.md)
