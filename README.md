@@ -7,5 +7,6 @@
 - [Principais protocolos de rede e portas de comunicação](principais-protocolos-e-portas-de-comunicacao.md)
 - [Compartilhamento de rede no Windows](compartilhamento-de-rede-windows.md)
 - [Protocolos: NAT e PAT](protocolos-nat-e-pat.md)
+- [IP, Máscaras de rede e CIDR](cidr-e-mascaras-rede.md)
 ##
 - [Referências](referencias/README.md)
