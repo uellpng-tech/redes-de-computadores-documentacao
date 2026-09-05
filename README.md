@@ -8,5 +8,6 @@
 - [Compartilhamento de rede no Windows](compartilhamento-de-rede-windows.md)
 - [Protocolos: NAT e PAT](protocolos-nat-e-pat.md)
 - [IP, Máscaras de rede e CIDR](cidr-e-mascaras-rede.md)
+- [Infraestrutura De Cabeamento de Rede](infraestrutura-de-cabeamento-rede.md)
 ##
 - [Referências](referencias/README.md)
