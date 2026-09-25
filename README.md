@@ -11,3 +11,4 @@
 - [Infraestrutura De Cabeamento de Rede](infraestrutura-de-cabeamento-rede.md)
 ##
 - [Referências](referencias/README.md)
+- [Certificações](certificacoes/README.md)

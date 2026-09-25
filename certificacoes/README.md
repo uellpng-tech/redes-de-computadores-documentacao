@@ -1,0 +1,2 @@
+# Certificações Relacionadas ao Repositório
+- [Curso Prático de Redes de Computadores e Internet | Curso em Vídeo](Emanuell-Souza-Curso-Pratico-de-Redes-de-Computadores-e-Internet-20-HORAS-Certificado-Curso-em-Video.pdf)
